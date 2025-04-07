@@ -11,16 +11,16 @@ Audio processing system that transcribes and tags audio files for profanity.
 - Ngrok integration for public URL
 
 ## Audio Mod – macOS & Windows
--Real-Time Monitoring
+- Real-Time Monitoring
 Watches folders for new audio files and processes them instantly.
 
--Speech Transcription
+- Speech Transcription
 Uses the Whisper model to convert audio into text locally.
 
--Profanity Tagging
+- Profanity Tagging
 Detects offensive language and assigns a clean, mild, or explicit tag.
 
--Background Execution
+- Background Execution
 Runs silently in the background with a custom app icon on both platforms.
 
 ## Installation
