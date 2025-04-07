@@ -10,6 +10,19 @@ Audio processing system that transcribes and tags audio files for profanity.
 - Web interface for file upload and results viewing
 - Ngrok integration for public URL
 
+## Audio Mod – macOS & Windows
+-Real-Time Monitoring
+Watches folders for new audio files and processes them instantly.
+
+-Speech Transcription
+Uses the Whisper model to convert audio into text locally.
+
+-Profanity Tagging
+Detects offensive language and assigns a clean, mild, or explicit tag.
+
+-Background Execution
+Runs silently in the background with a custom app icon on both platforms.
+
 ## Installation
  ```bash
 git clone https://github.com/yourusername/profanity-tagger.git
