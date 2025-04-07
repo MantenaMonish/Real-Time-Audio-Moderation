@@ -1,0 +1,4 @@
+openai-whisper
+better_profanity
+torch
+watchdog
