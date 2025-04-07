@@ -11,7 +11,20 @@ Audio processing system that transcribes and tags audio files for profanity.
 - Ngrok integration for public URL
 
 ## Installation
-```bash
+ ```bash
 git clone https://github.com/yourusername/profanity-tagger.git
 cd profanity-tagger
 pip install -r requirements.txt
+ ```
+
+## After Installation
+- Remove the .txt file in the data/WatchAudio/
+- Check if all the files installed are in this order
+📁 AudioMod-OS version/
+│
+├── tagger.py             # Handles audio transcription + profanity tagging
+├── ui_windows.py         # Windows-specific GUI and watch folder
+├── requirements.txt
+└── 📁 data/
+    └── WatchAudio/       # Folder to drop audio files
+
