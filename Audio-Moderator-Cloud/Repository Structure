@@ -1,0 +1,7 @@
+profanity-tagger/
+├── Audio-Moderator-Cloud/
+    ├── tagger.py
+    └── app.py
+    ├── requirements.txt
+    ├── README.md
+    └── .gitignore
