@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+data/
+.DS_Store
+*.wav
+*.mp3
+*.flac
