@@ -20,6 +20,7 @@ pip install -r requirements.txt
 ## After Installation
 - Remove the .txt file in the data/WatchAudio/
 - Check if all the files installed are in this order
+ ```bash
 📁 AudioMod-OS version/
 │
 ├── tagger.py             # Handles audio transcription + profanity tagging
@@ -27,4 +28,28 @@ pip install -r requirements.txt
 ├── requirements.txt
 └── 📁 data/
     └── WatchAudio/       # Folder to drop audio files
+
+ ```
+## App Setup
+We are seeting up the icon using .ico for windows and .icns for mac. 
+ ```bash
+pip install py2app
+```
+ ```bash
+cd /path/to/audio\ mod
+python3 setup.py py2app
+```
+This will generate:
+ ```bash
+dist/
+└── Audio Profanity Tagger.app
+ ```
+
+## Running Code on a compiler
+ ```bash
+python ui.py
+ ```
+
+
+
 
