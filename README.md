@@ -6,6 +6,8 @@ Audio processing system that transcribes and tags audio files for profanity.
 
 ![image alt](https://github.com/MantenaMonish/Real-Time-Audio-Moderation/blob/b5aebe5bed06660e10c52448ada0c3bbbbdb98f8/AudioMod-mac/cf81689c-6663-4763-aa95-70050a460d20.jpg)
 
+![image alt](https://github.com/MantenaMonish/Real-Time-Audio-Moderation/blob/7df28d9916757d61de556d0cf4a31eceff9c7998/Audio-Moderator-Cloud/183ee366-535f-4af9-935b-89194ac73ee8.jpg)
+
 ## Features
 - Automatic speech-to-text transcription using Whisper
 - Profanity detection using better-profanity
