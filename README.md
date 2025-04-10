@@ -38,12 +38,12 @@ pip install -r requirements.txt
 - Remove the .txt file in the data/WatchAudio/
 - Check if all the files installed are in this order
  ```bash
-📁 AudioMod-OS version/
+ AudioMod-OS version/
 │
 ├── tagger.py             # Handles audio transcription + profanity tagging
 ├── ui_windows.py         # Windows-specific GUI and watch folder
 ├── requirements.txt
-└── 📁 data/
+└──  data/
     └── WatchAudio/       # Folder to drop audio files
 
  ```
